@@ -1,0 +1,14 @@
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\VectorLibrary\VectorLibrary\bin\Debug\VectorLibrary.dll
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\VectorLibrary\VectorLibrary\bin\Debug\VectorLibrary.pdb
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\VectorLibrary\VectorLibrary\obj\Debug\VectorLibrary.dll
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\VectorLibrary\VectorLibrary\obj\Debug\VectorLibrary.pdb
+C:\AdvProg\VectorLibrary\VectorLibrary\bin\Debug\VectorLibrary.dll
+C:\AdvProg\VectorLibrary\VectorLibrary\bin\Debug\VectorLibrary.pdb
+C:\AdvProg\VectorLibrary\VectorLibrary\obj\Debug\VectorLibrary.csprojResolveAssemblyReference.cache
+C:\AdvProg\VectorLibrary\VectorLibrary\obj\Debug\VectorLibrary.dll
+C:\AdvProg\VectorLibrary\VectorLibrary\obj\Debug\VectorLibrary.pdb
+R:\VectorLibrary\VectorLibrary\bin\Debug\VectorLibrary.dll
+R:\VectorLibrary\VectorLibrary\bin\Debug\VectorLibrary.pdb
+R:\VectorLibrary\VectorLibrary\obj\Debug\VectorLibrary.csproj.CoreCompileInputs.cache
+R:\VectorLibrary\VectorLibrary\obj\Debug\VectorLibrary.dll
+R:\VectorLibrary\VectorLibrary\obj\Debug\VectorLibrary.pdb

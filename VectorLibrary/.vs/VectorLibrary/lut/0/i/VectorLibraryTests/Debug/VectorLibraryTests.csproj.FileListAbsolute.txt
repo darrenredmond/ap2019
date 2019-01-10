@@ -1,0 +1,5 @@
+R:\VectorLibrary\.vs\VectorLibrary\lut\0\b\VectorLibraryTests\bin\Debug\VectorLibraryTests.dll
+R:\VectorLibrary\.vs\VectorLibrary\lut\0\i\VectorLibraryTests\Debug\VectorLibraryTests.csprojAssemblyReference.cache
+R:\VectorLibrary\.vs\VectorLibrary\lut\0\i\VectorLibraryTests\Debug\VectorLibraryTests.csproj.CoreCompileInputs.cache
+R:\VectorLibrary\.vs\VectorLibrary\lut\0\i\VectorLibraryTests\Debug\VectorLibraryTests.csproj.CopyComplete
+R:\VectorLibrary\.vs\VectorLibrary\lut\0\i\VectorLibraryTests\Debug\VectorLibraryTests.dll

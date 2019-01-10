@@ -1,0 +1,27 @@
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\VectorLibrary\VectorLibraryTests\bin\Debug\VectorLibraryTests.dll
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\VectorLibrary\VectorLibraryTests\bin\Debug\VectorLibraryTests.pdb
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\VectorLibrary\VectorLibraryTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\VectorLibrary\VectorLibraryTests\bin\Debug\VectorLibrary.dll
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\VectorLibrary\VectorLibraryTests\bin\Debug\VectorLibrary.pdb
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\VectorLibrary\VectorLibraryTests\obj\Debug\VectorLibraryTests.csprojResolveAssemblyReference.cache
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\VectorLibrary\VectorLibraryTests\obj\Debug\VectorLibraryTests.dll
+C:\Users\predator\Documents\Visual Studio 2015\Projects\AdvancedProgramming\VectorLibrary\VectorLibraryTests\obj\Debug\VectorLibraryTests.pdb
+C:\AdvProg\VectorLibrary\VectorLibraryTests\bin\Debug\VectorLibraryTests.dll
+C:\AdvProg\VectorLibrary\VectorLibraryTests\bin\Debug\VectorLibraryTests.pdb
+C:\AdvProg\VectorLibrary\VectorLibraryTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\AdvProg\VectorLibrary\VectorLibraryTests\bin\Debug\VectorLibrary.dll
+C:\AdvProg\VectorLibrary\VectorLibraryTests\bin\Debug\VectorLibrary.pdb
+C:\AdvProg\VectorLibrary\VectorLibraryTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\AdvProg\VectorLibrary\VectorLibraryTests\obj\Debug\VectorLibraryTests.csprojResolveAssemblyReference.cache
+C:\AdvProg\VectorLibrary\VectorLibraryTests\obj\Debug\VectorLibraryTests.dll
+C:\AdvProg\VectorLibrary\VectorLibraryTests\obj\Debug\VectorLibraryTests.pdb
+R:\VectorLibrary\VectorLibraryTests\bin\Debug\VectorLibraryTests.dll
+R:\VectorLibrary\VectorLibraryTests\bin\Debug\VectorLibraryTests.pdb
+R:\VectorLibrary\VectorLibraryTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+R:\VectorLibrary\VectorLibraryTests\bin\Debug\VectorLibrary.dll
+R:\VectorLibrary\VectorLibraryTests\bin\Debug\VectorLibrary.pdb
+R:\VectorLibrary\VectorLibraryTests\obj\Debug\VectorLibraryTests.csprojAssemblyReference.cache
+R:\VectorLibrary\VectorLibraryTests\obj\Debug\VectorLibraryTests.csproj.CoreCompileInputs.cache
+R:\VectorLibrary\VectorLibraryTests\obj\Debug\VectorLibraryTests.csproj.CopyComplete
+R:\VectorLibrary\VectorLibraryTests\obj\Debug\VectorLibraryTests.dll
+R:\VectorLibrary\VectorLibraryTests\obj\Debug\VectorLibraryTests.pdb
